@@ -1,3 +1,4 @@
+// Занес проект на GitHub
 #include <iostream>
 #include <string.h>
 #include <windows.h> //Для использования фу-и Sleep
